@@ -1,0 +1,16 @@
+C:\Users\User\RiderProjects\StackApplication\StackApplication\bin\Debug\net5.0\StackApplication.exe
+C:\Users\User\RiderProjects\StackApplication\StackApplication\bin\Debug\net5.0\StackApplication.deps.json
+C:\Users\User\RiderProjects\StackApplication\StackApplication\bin\Debug\net5.0\StackApplication.runtimeconfig.json
+C:\Users\User\RiderProjects\StackApplication\StackApplication\bin\Debug\net5.0\StackApplication.runtimeconfig.dev.json
+C:\Users\User\RiderProjects\StackApplication\StackApplication\bin\Debug\net5.0\StackApplication.dll
+C:\Users\User\RiderProjects\StackApplication\StackApplication\bin\Debug\net5.0\ref\StackApplication.dll
+C:\Users\User\RiderProjects\StackApplication\StackApplication\bin\Debug\net5.0\StackApplication.pdb
+C:\Users\User\RiderProjects\StackApplication\StackApplication\obj\Debug\net5.0\StackApplication.csprojAssemblyReference.cache
+C:\Users\User\RiderProjects\StackApplication\StackApplication\obj\Debug\net5.0\StackApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\StackApplication\StackApplication\obj\Debug\net5.0\StackApplication.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\StackApplication\StackApplication\obj\Debug\net5.0\StackApplication.AssemblyInfo.cs
+C:\Users\User\RiderProjects\StackApplication\StackApplication\obj\Debug\net5.0\StackApplication.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\StackApplication\StackApplication\obj\Debug\net5.0\StackApplication.dll
+C:\Users\User\RiderProjects\StackApplication\StackApplication\obj\Debug\net5.0\ref\StackApplication.dll
+C:\Users\User\RiderProjects\StackApplication\StackApplication\obj\Debug\net5.0\StackApplication.pdb
+C:\Users\User\RiderProjects\StackApplication\StackApplication\obj\Debug\net5.0\StackApplication.genruntimeconfig.cache
